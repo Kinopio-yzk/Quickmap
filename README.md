@@ -1,0 +1,2 @@
+# Quickmap
+especially for minigis 
